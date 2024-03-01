@@ -47,6 +47,259 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/10.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/10.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/104.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/104.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/105.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/105.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/110.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/110.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/111.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/111.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/112.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/112.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/13.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/13.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/14.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/14.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/15.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/15.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/16.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/16.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/17.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/17.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/2.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/2.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/3.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/4.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/4.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/5.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/5.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/6.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/6.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/61.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/61.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/9.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/9.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/MTY4ODg1NTkyNTI4NTEyMg_210545_f-CsRXGa2Rtkt_T3_1679553944.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/MTY4ODg1NTkyNTI4NTEyMg_210545_f-CsRXGa2Rtkt_T3_1679553944.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/MTY4ODg1NTkyNTI4NTEyMg_561868_B55w78PjvcK7SUlF_1679553921.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/MTY4ODg1NTkyNTI4NTEyMg_561868_B55w78PjvcK7SUlF_1679553921.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/XIAO_ESP32C3_Sense_1.webp",
+      "output": {
+        "resource": {
+          "relative_path": "images/XIAO_ESP32C3_Sense_1.webp"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/datasheet.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/datasheet.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/feedback.png",
       "output": {
         "resource": {
@@ -102,6 +355,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/ov5640.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/ov5640.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/overview.png",
       "output": {
         "resource": {
@@ -117,6 +381,28 @@
       "output": {
         "resource": {
           "relative_path": "images/workflow.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/xiaoesp32s3.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/xiaoesp32s3.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/xiaoesp32s3sense.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/xiaoesp32s3sense.jpg"
         }
       },
       "is_incremental": false,
